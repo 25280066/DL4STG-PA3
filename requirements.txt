@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+h5py
+tables
+hdf5plugin
+torch          # CUDA build recommended (experiments used an RTX 2060)
+jupyter
